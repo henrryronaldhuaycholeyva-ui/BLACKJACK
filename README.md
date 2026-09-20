@@ -1,4 +1,7 @@
-#BLACKJACK
+# BLACKJACK
 
 juego de cartas en el que se juega con una baraja de 52 cartas.
 
+# REGLAS 
+- se juega con una baraja de 52 cartas.
+- se piden cartas hasta llegar a 21 o pasarse de el.
